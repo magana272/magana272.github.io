@@ -121,10 +121,11 @@ html,h1,h2,h3,h4,h5,h6,a{
 	margin: 2em 0;
     position: relative;	
 }
-.portfolio h1{
+.portfolio .h1{
 	color:black;
-	margin: 0em;	
+	margin: 1em;	
 }
+
 .portfolio img{
 	 height: 15rem;
 	 width: 100%;
